@@ -1,6 +1,9 @@
 {
   "name": "confusion",
   "version": "0.1.0",
+  "engines": {
+    "node": "13.2.0"
+  },
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
