@@ -9,6 +9,7 @@
     "eslint": "^6.2.2",
     "firebase": "^7.5.2",
     "font-awesome": "4.7.0",
+    "handlebars": "^4.5.3",
     "lodash": "^4.17.14",
     "lodash-es": "^4.17.14",
     "lodash.template": "^4.5.0",
